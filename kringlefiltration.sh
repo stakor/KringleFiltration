@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# lolfiltration.sh
+# kringlefiltration.sh
 # Wraper Script for the core_lolfiltration script
 
 # Set Path
