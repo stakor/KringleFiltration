@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # kringlefiltration.sh
-# Wraper Script for the core_lolfiltration script
+# Wraper Script for the core_kringle script
 
 # Set Path
 script_name=$0
