@@ -40,4 +40,4 @@ To extract:
 `core_lol.py -d <input.kringle> <output.file>`
 
 ### Example:
-![alt text](https://github.com/stakor/img/blob/master/img_examp_lolfiltration.gif "Lolfiltration")
+![alt text](https://github.com/stakor/img/blob/master/kringlefiltration-s.png "KringleFiltration")
