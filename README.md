@@ -6,6 +6,8 @@ Coming Soon...
 ### Creator:
 Chris Stakor
 
+![alt text](https://github.com/stakor/img/blob/master/kringlefiltration-s.png "KringleFiltration")
+
 ### What is KringleFiltration?
 
 Kringlefiltration is a holiday mutation of the LolFiltration tool. It too will allow for the evasion of DLP looking for Base64. 
@@ -40,4 +42,4 @@ To extract:
 `core_lol.py -d <input.kringle> <output.file>`
 
 ### Example:
-![alt text](https://github.com/stakor/img/blob/master/kringlefiltration-s.png "KringleFiltration")
+![alt text](https://github.com/stakor/img/blob/master/ktesto.gif "KringleFiltration")
